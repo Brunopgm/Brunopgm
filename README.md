@@ -4,7 +4,8 @@ My name is Bruno.
 - Passionate about innovations and ideas that make the world a better place
 - Systems analysis and development student
 - I'm work with front-end development
-- The main tools I use are JavaScript, vue.js, CSS e HTML
+- The main tools I use are JavaScript, vue.js, CSS e HTML.
+
 more informations at https://www.linkedin.com/in/bruno-silva-046887180/
 
 <!--
